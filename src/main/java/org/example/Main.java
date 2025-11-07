@@ -8,7 +8,7 @@ public class Main {
     short shoVar=10100;
     int intVar=1000000000;
     long longVar=1100L;
-    float floVar=12.2f;
+    float floVar=12.2F;
     double doubVAr=12202d;
     char charVar='a';
     boolean booVar=true;
